@@ -1,0 +1,10 @@
+* unboxables
+
+A simple wrapper around CFFI to enable contiguously allocated arrays
+of structures in Common Lisp.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/digikar99/unboxables.git |
+| commit  | 7f877eb                                         |
+| systems | unboxables                                      |
+|---------+-------------------------------------------------|
